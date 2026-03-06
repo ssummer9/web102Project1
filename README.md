@@ -1,5 +1,5 @@
 # web102Project1
-# Web Development Project 1 - *Food Truck Favorites*
+# Web Development Project 1 - *Coding Opportunities*
 
 Submitted by: **Sawaira Summer**
 
